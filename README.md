@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning IT courses 
 - 🌱 I’m currently learning Java fullstack developer course 
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me 6303170024
+- 📫 How to reach me 6303170024/challakanchanamala@gmail.com
 
 <!---
 kanchanamala01/kanchanamala01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
